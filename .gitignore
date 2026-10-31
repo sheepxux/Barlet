@@ -1,0 +1,20 @@
+.DS_Store
+*.xcuserstate
+xcuserdata/
+DerivedData/
+build/
+.swiftpm/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# 签名材料不进仓库
+*.p12
+*.cer
+*.mobileprovision
+*.provisionprofile
+*.pem
+.env
+.env.*
